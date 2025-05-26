@@ -1,0 +1,4 @@
+runtime: python39
+
+env_variables:
+  BOT_TOKEN: "8086701406:AAGKpDDVNysglDTLCtrXSvdWw98DlsczVQs"
